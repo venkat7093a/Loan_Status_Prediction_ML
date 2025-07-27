@@ -59,6 +59,15 @@ The dataset includes the following key attributes:
      - Confusion Matrix
      - ROC-AUC Curve
 
+6. **Power BI Dashboard**
+   - Created an interactive dashboard showing:
+     - Loan approval rates by property area, credit history, and applicant type
+     - Filters for gender, education, dependents, and self-employment
+     - Income vs. loan amount analysis
+     - Distribution of approved vs. rejected loans
+     - Insights into key approval-driving features
+
+
 ---
 
 ## 🧠 Tools & Libraries
